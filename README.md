@@ -1,4 +1,4 @@
-# 学生成绩管理系统 student-achievement
+# 贾老师正在学习的学生成绩管理系统 student-achievement
 
 [项目介绍地址](https://blogweb.cn/article/6064300710)  
 如果你有对成功物有什么问题，或者在毕业设计上有什么问题（需要代做）可以联系 QQ：1974109227  
